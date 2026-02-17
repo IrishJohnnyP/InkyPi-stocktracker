@@ -65,8 +65,18 @@ When adding the plugin to your playlist, configure:
 
 This plugin is actively maintained and open to contributions. If you encounter issues or have feature requests, please open an issue on the [GitHub repository](https://github.com/efhkdmbc/InkyPi-StockTracker/issues).
 
-## Disclaimer
 
+## ⚠️ Disclaimer
+
+**IMPORTANT**: This software is provided for **informational and educational purposes only**. It is **NOT** intended to be financial, investment, trading, or legal advice.
+
+- Market data is obtained from third-party sources (Yahoo Finance) and may be delayed, inaccurate, or incomplete
+- Past performance does not guarantee future results
+- The authors and contributors make no representations or warranties regarding the accuracy, reliability, or suitability of the information displayed
+- No liability is accepted for any losses or damages arising from the use of this software
+- **Use this software entirely at your own risk**
+
+Always consult with qualified financial professionals before making investment decisions.
 This software is provided for informational and educational purposes only. It is NOT intended to be financial, investment, trading, or legal advice. Market data is obtained from third-party sources and may be delayed, inaccurate, or incomplete.
 
 The authors and contributors make no representations or warranties of any kind regarding the accuracy, reliability, or suitability of the information displayed and accept no liability for any losses or damages arising from its use. Use this software entirely at your own risk.
@@ -75,3 +85,21 @@ The authors and contributors make no representations or warranties of any kind r
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 👤 Author
+
+**MEANGAIN**
+
+- GitHub: [@MEANGAIN](https://github.com/MEANGAIN)
+- Repository: [InkyPi-StockTracker](https://github.com/MEANGAIN/InkyPi-StockTracker)
+
+## 🔗 Related Projects
+
+- [InkyPi Framework](https://github.com/fatihak/InkyPi) - The core plugin framework for Raspberry Pi e-ink displays
+
+## 📝 Version History
+
+- **v1.0.0** - Initial release with portfolio tracking and dashboard visualization
+
+---
+
+*Made with ❤️ for the Raspberry Pi and e-ink display community* 
